@@ -6,6 +6,8 @@
 ### Planning & Logging of Work
 For this project our group mainly used WhatsApp for quick communication, providing feedback, and keeping each other updated. Using WhatsApp, we also scheduled regular meeting times on Microsoft Teams to discuss progress in more detail and to make decisions as a group. We shared our files and other project resources using WhatsApp, Microsoft Teams, and Google Drive, ensuring everyone had access to all the latest project materials. When organizing tasks, we used the Planner App on Microsoft Teams to log our individual tasks, and a screenshot of our individual contributions is attached to the project PDF. Using WhatsApp allowed us to communicate with each other very quickly and benefited us immensely when other platforms were involved, allowing us to stay organized and keep the project moving forward efficiently.
 
+Each group member individually developed and tested their own version of the terrain generation code. After sharing progress and discussing results during our weekly meetings, we compared the different approaches and collectively decided on the final version to move forward with.
+
 ### Written Summary of Individual Task Contributions
 - 
 
