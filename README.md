@@ -19,7 +19,7 @@ Each group member individually developed and tested their own version of the ter
  
 **Guneet Bakshi**: I created a Perlin noise generator which produces a heightmap of 4096x4096. These values of noise are stored in an array, transformed into grayscale pixels, and stored as a PNG file titled height_map.png. During our group meeting, we reviewed the progress, and discussed the various approaches, and decided to proceed with simrans project.
 
-**Nicholas Retel**:
+**Nicholas Retel**: I contributed to the initial draft of the code, which allowed everyone to experiment with generating 2D images using FastNoiseLite and creating a grid of 3D quads with the vertex heights controlled by the noise. Our group later met to compare and finalize code, where I provided feedback and suggestions that helped complete the project. In addition, I worked on the documentation, preparing both the PDF and the README.md alongside my group during our Microsoft Teams meetings so we could collaboratively finish the project documentation together.
 
 ### References
 https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/gdscript_exports.html
