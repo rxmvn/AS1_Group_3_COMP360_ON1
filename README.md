@@ -17,7 +17,7 @@ Each group member individually developed and tested their own version of the ter
 
 **Gursagar Chalal**: Worked on creating a 2D noise image similar to greyscale satellite images as well as creating a 3D mesh. Researched and shared knowledge about how to implement the 2D image into the 3D mesh. Attended all team meetings and promptly responded to all messages. 
  
-**Guneet Bakshi**: I created a Perlin noise generator which produces a heightmap of 4096x4096. These values of noise are stored in an array, transformed into grayscale pixels, and stored as a PNG file titled height_map.png. During our group meeting, we reviewed the progress, and discussed the various approaches, and decided to proceed with my version as a foundation of final project. 
+**Guneet Bakshi**: I created a Perlin noise generator which produces a heightmap of 4096x4096. These values of noise are stored in an array, transformed into grayscale pixels, and stored as a PNG file titled height_map.png. During our group meeting, we reviewed the progress, and discussed the various approaches, and decided to proceed with simrans project.
 
 **Nicholas Retel**:
 
