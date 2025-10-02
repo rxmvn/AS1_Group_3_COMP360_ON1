@@ -1,6 +1,6 @@
 # **Assignment 1**
 #### COMP 360 ON1 - Group 3
-#### Name ID, Name ID, Name ID, Name ID, Name ID, Name ID
+#### Simran Dhillon (#300211810), Bhupinder Singh Gill (#300140363), Gursagar Chahal (#300192061), Gurashman Kaur Otaal (#300196154), Guneet Bakshi (#300196598), Nicholas Retel (#300196657)
 #### October 2nd, 2025
 
 ### Code Breakdown
@@ -13,3 +13,5 @@ For this project our group mainly used WhatsApp for quick communication, providi
 
 ### Debugging & Testing Video Demonstration
 Video Link:
+
+### References
