@@ -11,8 +11,6 @@ Each group member individually developed and tested their own version of the ter
 ### Written Summary of Individual Task Contributions
 - 
 
-### Debugging & Testing Video Demonstration
-Video Link:
 
 ### References
 https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/gdscript_exports.html
